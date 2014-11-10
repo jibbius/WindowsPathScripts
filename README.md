@@ -1,4 +1,4 @@
-#Windows (UNIXie) path scripts
+#For Windows: Unix(y) Path Scripts
 
 This is a **personal** collection of .bat files, that I use to make using the command line:
  - Replicate (some) functionality / aliases that already exist in unix.
