@@ -1,6 +1,6 @@
 #For Windows: Unix(y) Path Scripts
 
-This is a **personal** collection of .bat files, that I use to make using the command line:
+This is a **personal** collection of .bat files, that I use to make the Windows command line:
  - Replicate (some) functionality / aliases that already exist in unix.
  - Aliases that don't exist in unix, but are used by me frequently.
  - Command line utilities that I like.
@@ -8,6 +8,7 @@ This is a **personal** collection of .bat files, that I use to make using the co
 
  This repo is really for my own personal use only.
  You are welcome to download / borrow / take ideas from it.
+ All files are provided without support and without warranty.
 
 
  #Thanks to:
